@@ -6,14 +6,6 @@ section {
     display: flex;
 }
 
-#firstsec {
-    margin-bottom: 12px;
-}
-
-#secondsec {
-    margin: 1px 0px 150px 0px;
-}
-
 .thirdsec {
     margin-right: 100px;
     margin-bottom: 140px;
@@ -72,7 +64,9 @@ section {
 .blue {
     color: rgb(12, 12, 75);
 }
-
+.yellow{
+    color: yellow;
+}
 .half-width {
     width: 50%;
     height: 50%;
@@ -100,6 +94,11 @@ img {
 }
 
 footer {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: white;
     background-color: rgb(5, 5, 75);
     text-align: center;
