@@ -5,38 +5,30 @@ body {
 section {
     display: flex;
 }
-
+#secondsec{
+    margin-bottom: 140px;
+}
 .thirdsec {
     margin-right: 100px;
     margin-bottom: 140px;
 }
-
-.secsecdiv {
+.secsecdiv{
     height: 50%;
-    background-color: aqua;
-}
-
-#secsecdiv1 {
-    padding: 15px;
-    margin: 0px 15px 0px 100px;
     border-radius: 25px;
-    height: 50%;
+    padding: 15px;
+}
+#secsecdiv1 {
+    margin: 0px 15px 0px 100px;
     background-color: rgb(117, 250, 250);
 }
 
 #secsecdiv2 {
-    padding: 15px;
     margin: 0px 15px;
-    border-radius: 25px;
-    height: 50%;
     background-color: rgb(255, 227, 148);
 }
 
 #secsecdiv3 {
-    padding: 15px;
     margin: 0px 100px 0px 15px;
-    border-radius: 25px;
-    height: 50%;
     background-color: rgb(243, 169, 253);
 }
 
