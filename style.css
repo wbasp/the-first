@@ -6,16 +6,8 @@ section {
     display: flex;
 }
 
-a {
-    text-decoration: none;
-    background-color: rgba(161, 185, 23, 0.932);
-    color: black;
-    padding: 10px 45px;
-    border-radius: 10px;
-}
-
 #firstsec {
-    margin-bottom: 120px;
+    margin-bottom: 12px;
 }
 
 #secondsec {
@@ -56,19 +48,11 @@ a {
     background-color: rgb(243, 169, 253);
 }
 
-h1 {
-    font-family: 'Anton', sans-serif;
-    font-family: 'Archivo Black', sans-serif;
-    font-family: 'Be Vietnam Pro', sans-serif;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Roboto', sans-serif;
-}
-
 .heading1 {
+    padding-left: 20px;
     font-family: 'Yeseva One', cursive;
     font-size: 38px;
-    border-left: 5px solid red;
-    border-radius: 5px;
+    border-left: 8px solid red;
 }
 
 .heading2 {
@@ -87,10 +71,6 @@ h1 {
 
 .blue {
     color: rgb(12, 12, 75);
-}
-
-h1 {
-    padding-left: 20px;
 }
 
 .half-width {
@@ -132,4 +112,11 @@ p {
     font-family: 'Be Vietnam Pro', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
+}
+a {
+    text-decoration: none;
+    background-color: rgba(161, 185, 23, 0.932);
+    color: black;
+    padding: 10px 45px;
+    border-radius: 10px;
 }
