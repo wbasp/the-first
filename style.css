@@ -1,10 +1,12 @@
-body{
+body {
     margin: 0;
 }
+
 section {
     display: flex;
 }
-a{
+
+a {
     text-decoration: none;
     background-color: rgba(161, 185, 23, 0.932);
     color: black;
@@ -52,6 +54,14 @@ a{
     border-radius: 25px;
     height: 50%;
     background-color: rgb(243, 169, 253);
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .heading1 {
@@ -104,13 +114,22 @@ img {
     padding: 0 20px;
 }
 
-.thirdsecp{
+.thirdsecp {
     font-size: 21px;
     padding: 0px 20px;
 }
-footer{
+
+footer {
     color: white;
     background-color: rgb(5, 5, 75);
     text-align: center;
     padding: 22px 0px;
+}
+
+p {
+    font-weight: 600;
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
